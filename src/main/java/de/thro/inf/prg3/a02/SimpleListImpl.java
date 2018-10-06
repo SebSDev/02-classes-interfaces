@@ -6,6 +6,7 @@ package de.thro.inf.prg3.a02;
  */
 public class SimpleListImpl implements SimpleList {
 
+    // adding a commet to test git
 	// TODO: Implement the required methods.
 
 }
